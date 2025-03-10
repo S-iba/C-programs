@@ -1,0 +1,15 @@
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.exe.config
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.exe
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.pdb
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.csproj.AssemblyReference.cache
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.csproj.CoreCompileInputs.cache
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.exe
+H:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.exe.config
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\bin\Debug\CarDealer.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.csproj.AssemblyReference.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.csproj.SuggestedBindingRedirects.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.csproj.CoreCompileInputs.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 10 (2023)\CarDealer\obj\Debug\CarDealer.pdb

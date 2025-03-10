@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\bin\Debug\P1T1.exe.config
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\bin\Debug\P1T1.exe
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\bin\Debug\P1T1.pdb
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.Form1.resources
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.Properties.Resources.resources
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.exe
+C:\Users\acer\Desktop\Work\WRAV\P1T1\P1T1\obj\Debug\P1T1.pdb

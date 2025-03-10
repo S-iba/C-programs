@@ -1,0 +1,11 @@
+290,Jones,A,1200
+320,Peters,BJ,1200
+267,Carter,M,1000
+289,Mujeji,L,500
+301,Ndlovu,Z,850
+350,Smith,T,950
+256,Bell,RT,2500
+112,Davids,W,300
+518,Zondi,P,560
+481,Pitse,G,740
+111,Klaas,SK,4756
