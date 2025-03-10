@@ -1,0 +1,39 @@
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.exe.config
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\bin\Debug\Library.pdb
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.exe
+F:\A Transfer from(to) home PC\A-NMU\WRAV102\Prac 09 (2023)\Library\obj\Debug\Library.pdb
+C:\Users\unath\3D Objects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\unath\3D Objects\Library\Library\bin\Debug\Library.exe
+C:\Users\unath\3D Objects\Library\Library\bin\Debug\Library.pdb
+C:\Users\unath\3D Objects\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\unath\3D Objects\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\unath\3D Objects\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\unath\3D Objects\Library\Library\obj\Debug\Library.exe
+C:\Users\unath\3D Objects\Library\Library\obj\Debug\Library.pdb
+S:\WRAV 102\Practical 09\Library\bin\Debug\Library.exe.config
+S:\WRAV 102\Practical 09\Library\bin\Debug\Library.exe
+S:\WRAV 102\Practical 09\Library\bin\Debug\Library.pdb
+S:\WRAV 102\Practical 09\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+S:\WRAV 102\Practical 09\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+S:\WRAV 102\Practical 09\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+S:\WRAV 102\Practical 09\Library\obj\Debug\Library.exe
+S:\WRAV 102\Practical 09\Library\obj\Debug\Library.pdb
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\bin\Debug\Library.exe.config
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\bin\Debug\Library.exe
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\bin\Debug\Library.pdb
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\obj\Debug\Library.exe
+C:\Users\acer\Desktop\Material\WRAV - Programming\rUDZANI\Practical 09\Library\obj\Debug\Library.pdb
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\bin\Debug\Library.exe.config
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\bin\Debug\Library.exe
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\bin\Debug\Library.pdb
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\obj\Debug\Library.exe
+C:\Users\klaas\Documents\GitHub\C# programs\WRAV\P9T1\obj\Debug\Library.pdb

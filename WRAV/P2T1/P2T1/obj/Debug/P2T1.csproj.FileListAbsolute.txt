@@ -1,8 +1,0 @@
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\bin\Debug\P2T1.exe.config
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\bin\Debug\P2T1.exe
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\bin\Debug\P2T1.pdb
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\obj\Debug\P2T1.csproj.AssemblyReference.cache
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\obj\Debug\P2T1.csproj.SuggestedBindingRedirects.cache
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\obj\Debug\P2T1.csproj.CoreCompileInputs.cache
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\obj\Debug\P2T1.exe
-C:\Users\acer\Desktop\Work\WRAV\P2T1\P2T1\obj\Debug\P2T1.pdb
